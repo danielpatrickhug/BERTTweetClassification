@@ -1,0 +1,10 @@
+pandas
+torch
+transformers
+sklearn
+absl-py
+tensorflow
+keras
+sh
+numpy
+pytorch_lightning
